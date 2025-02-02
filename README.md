@@ -1,2 +1,2 @@
-# SocialMedia-OOP
+# Social Media
  
